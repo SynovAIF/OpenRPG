@@ -1,4 +1,5 @@
 # New OpenRPG Agenda
+### We are working on it, no release date.
 
 > The OpenRPG team is convening and strategizing for the update of the OpenRPG mod to align with V Rising Update 1.0.
 
