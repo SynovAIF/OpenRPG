@@ -19,7 +19,7 @@ The RPG mod was initially developed by [Kaltharos](https://github.com/Kaltharos)
 
 The Random Encounters mod was originally developed by [adainrivers](https://github.com/adainrivers/randomencounters).
 
-Updated by [Trodi](https://github.com/oscarpedrero).
+Gloomrot Update by [Trodi](https://github.com/oscarpedrero).
 
 [V Rising Mod Community](https://discord.gg/vrisingmods) - the premier community for V Rising mods.
 
